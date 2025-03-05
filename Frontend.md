@@ -1,4 +1,4 @@
 # Apa itu Frontend
 Frontend adalah bagian dari sebuah aplikasi atau situs web yang langsung berinteraksi dengan pengguna. Cakupannya berupa elemen visual seperti tata letak, tombol, menu, dan semua aspek lain yang dapat dilihat dan digunakan oleh pengguna.Frontend biasanya dibangun menggunakan kombinasi dari tiga teknologi utama: HTML (HyperText Markup Language), CSS (Cascading Style Sheets), dan JavaScript. Tugas utama dari frontend adalah untuk menghadirkan antarmuka (interface) yang menarik dan responsif serta memastikan bahwa pengalaman pengguna berjalan dengan lancar di berbagai perangkat. Selain itu, frontend juga berperan sebagai jembatan antara desain dan fungsionalitas dengan mengubah konsep visual menjadi elemen yang interaktif.
-sumber: https://www.lawencon.com/mengenal-frontend/
+sumber: [Klik di sini untuk mengunjungi sumber](https://www.lawencon.com/mengenal-frontend/)
 
