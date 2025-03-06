@@ -13,3 +13,4 @@ CSS bertugas untuk mengatur tampilan dan estetika elemen HTML. Melalui CSS, peng
 JavaScript adalah bahasa pemrograman yang menambahkan interaktivitas ke halaman web. Dengan JavaScript, pengguna dapat berinteraksi dengan elemen seperti tombol, formulir, atau menu dropdown. Selain itu, JavaScript juga memungkinkan pembuatan fitur dinamis seperti validasi formulir, galeri gambar interaktif, dan animasi halaman​.
 
 sumber: [Klik di sini untuk mengunjungi sumber](https://www.lawencon.com/mengenal-frontend/)
+ini joyce sini :))))
